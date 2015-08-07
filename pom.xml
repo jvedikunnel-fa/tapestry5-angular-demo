@@ -10,7 +10,7 @@
 	<properties>
 		<tapestry-release-version>5.3.8</tapestry-release-version>
 		<hibernate-framework-version>3.6.10.Final</hibernate-framework-version>
-		<slf4j-version>1.7.2</slf4j-version>
+		<slf4j-version>1.7.5</slf4j-version>
 		<servlet-api-release-version>2.5</servlet-api-release-version>
 		 <!-- Explicitly declaring the source encoding eliminates the following
 message: -->
